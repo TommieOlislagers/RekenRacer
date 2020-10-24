@@ -1,0 +1,39 @@
+﻿<Window x:Class="RekenRacer.Highscores"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RekenRacer"
+        mc:Ignorable="d" DataContext="{Binding RelativeSource={RelativeSource Self}}"
+        d:DataContext="{d:DesignInstance local:Highscores}" WindowStartupLocation="CenterScreen" 
+        Title="Highscores"  Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Label FontFamily="Helvetica" FontSize="28" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center">RekenRacer highscore lijst</Label>
+        <StackPanel Orientation="Vertical" Grid.Row="1" Grid.Column="1">
+            <ListView Background="LightGray"  x:Name="ltbTransacties" 
+                  ItemsSource="{Binding Path=HighscoreLijst , UpdateSourceTrigger=PropertyChanged}" >
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Gebruiker" DisplayMemberBinding="{Binding Gebruikersnaam}" />
+                        <GridViewColumn Header="Highscore" DisplayMemberBinding="{Binding Score}" />
+                        <GridViewColumn Header="Datum" DisplayMemberBinding="{Binding Datum}" />
+                        <GridViewColumn Header="Tijd" DisplayMemberBinding="{Binding Tijd}" />
+                    </GridView>
+                </ListView.View>
+            </ListView>
+
+            <Button HorizontalAlignment="Right" Width="107" Click="Button_Click">Ga terug</Button>
+        </StackPanel>
+        
+    </Grid>
+</Window>

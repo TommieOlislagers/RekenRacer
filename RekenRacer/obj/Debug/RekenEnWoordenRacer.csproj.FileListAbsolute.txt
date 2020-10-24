@@ -1,0 +1,127 @@
+C:\Users\eimmo\source\repos\RekenRacer\RekenRacer\bin\Debug\RekenRacer.exe.config
+C:\Users\eimmo\source\repos\RekenRacer\RekenRacer\bin\Debug\RekenRacer.exe
+C:\Users\eimmo\source\repos\RekenRacer\RekenRacer\bin\Debug\RekenRacer.pdb
+C:\Users\eimmo\source\repos\RekenRacer\RekenRacer\obj\Debug\RekenRacer.csprojAssemblyReference.cache
+C:\Users\eimmo\source\repos\RekenRacer\RekenRacer\obj\Debug\MainWindow.g.cs
+C:\Users\eimmo\source\repos\RekenRacer\RekenRacer\obj\Debug\App.g.cs
+C:\Users\eimmo\source\repos\RekenRacer\RekenRacer\obj\Debug\RekenRacer_MarkupCompile.cache
+C:\Users\eimmo\source\repos\RekenRacer\RekenRacer\obj\Debug\RekenRacer_MarkupCompile.lref
+C:\Users\eimmo\source\repos\RekenRacer\RekenRacer\obj\Debug\MainWindow.baml
+C:\Users\eimmo\source\repos\RekenRacer\RekenRacer\obj\Debug\RekenRacer.g.resources
+C:\Users\eimmo\source\repos\RekenRacer\RekenRacer\obj\Debug\RekenRacer.Properties.Resources.resources
+C:\Users\eimmo\source\repos\RekenRacer\RekenRacer\obj\Debug\RekenRacer.csproj.GenerateResource.cache
+C:\Users\eimmo\source\repos\RekenRacer\RekenRacer\obj\Debug\RekenRacer.csproj.CoreCompileInputs.cache
+C:\Users\eimmo\source\repos\RekenRacer\RekenRacer\obj\Debug\RekenRacer.exe
+C:\Users\eimmo\source\repos\RekenRacer\RekenRacer\obj\Debug\RekenRacer.pdb
+C:\Users\eimmo\source\repos\RekenRacer\RekenRacer\bin\Debug\MySql.Data.dll
+C:\Users\eimmo\source\repos\RekenRacer\RekenRacer\bin\Debug\Google.Protobuf.dll
+C:\Users\eimmo\source\repos\RekenRacer\RekenRacer\bin\Debug\Zstandard.Net.dll
+C:\Users\eimmo\source\repos\RekenRacer\RekenRacer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\eimmo\source\repos\RekenRacer\RekenRacer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\eimmo\source\repos\RekenRacer\RekenRacer\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\eimmo\source\repos\RekenRacer\RekenRacer\bin\Debug\Renci.SshNet.dll
+C:\Users\eimmo\source\repos\RekenRacer\RekenRacer\bin\Debug\System.Buffers.dll
+C:\Users\eimmo\source\repos\RekenRacer\RekenRacer\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\eimmo\source\repos\RekenRacer\RekenRacer\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\eimmo\source\repos\RekenRacer\RekenRacer\bin\Debug\System.Memory.dll
+C:\Users\eimmo\source\repos\RekenRacer\RekenRacer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\eimmo\source\repos\RekenRacer\RekenRacer\bin\Debug\MySql.Data.xml
+C:\Users\eimmo\source\repos\RekenRacer\RekenRacer\obj\Debug\RekenRacer.exe.config
+C:\Users\eimmo\source\repos\RekenRacer\RekenRacer\obj\Debug\RekenRacer.csproj.CopyComplete
+C:\Users\eimmo\Desktop\MediaJaar1Week5_TommieOlislagers (1)\RekenRacer\bin\Debug\RekenRacer.exe.config
+C:\Users\eimmo\Desktop\MediaJaar1Week5_TommieOlislagers (1)\RekenRacer\bin\Debug\RekenRacer.exe
+C:\Users\eimmo\Desktop\MediaJaar1Week5_TommieOlislagers (1)\RekenRacer\bin\Debug\RekenRacer.pdb
+C:\Users\eimmo\Desktop\MediaJaar1Week5_TommieOlislagers (1)\RekenRacer\bin\Debug\MySql.Data.dll
+C:\Users\eimmo\Desktop\MediaJaar1Week5_TommieOlislagers (1)\RekenRacer\bin\Debug\Google.Protobuf.dll
+C:\Users\eimmo\Desktop\MediaJaar1Week5_TommieOlislagers (1)\RekenRacer\bin\Debug\Zstandard.Net.dll
+C:\Users\eimmo\Desktop\MediaJaar1Week5_TommieOlislagers (1)\RekenRacer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\eimmo\Desktop\MediaJaar1Week5_TommieOlislagers (1)\RekenRacer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\eimmo\Desktop\MediaJaar1Week5_TommieOlislagers (1)\RekenRacer\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\eimmo\Desktop\MediaJaar1Week5_TommieOlislagers (1)\RekenRacer\bin\Debug\Renci.SshNet.dll
+C:\Users\eimmo\Desktop\MediaJaar1Week5_TommieOlislagers (1)\RekenRacer\bin\Debug\System.Buffers.dll
+C:\Users\eimmo\Desktop\MediaJaar1Week5_TommieOlislagers (1)\RekenRacer\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\eimmo\Desktop\MediaJaar1Week5_TommieOlislagers (1)\RekenRacer\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\eimmo\Desktop\MediaJaar1Week5_TommieOlislagers (1)\RekenRacer\bin\Debug\System.Memory.dll
+C:\Users\eimmo\Desktop\MediaJaar1Week5_TommieOlislagers (1)\RekenRacer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\eimmo\Desktop\MediaJaar1Week5_TommieOlislagers (1)\RekenRacer\bin\Debug\MySql.Data.xml
+C:\Users\eimmo\Desktop\MediaJaar1Week5_TommieOlislagers (1)\RekenRacer\obj\Debug\RekenRacer.csprojAssemblyReference.cache
+C:\Users\eimmo\Desktop\MediaJaar1Week5_TommieOlislagers (1)\RekenRacer\obj\Debug\RekenRacer.exe.config
+C:\Users\eimmo\Desktop\MediaJaar1Week5_TommieOlislagers (1)\RekenRacer\obj\Debug\MainWindow.g.cs
+C:\Users\eimmo\Desktop\MediaJaar1Week5_TommieOlislagers (1)\RekenRacer\obj\Debug\App.g.cs
+C:\Users\eimmo\Desktop\MediaJaar1Week5_TommieOlislagers (1)\RekenRacer\obj\Debug\RekenRacer_MarkupCompile.cache
+C:\Users\eimmo\Desktop\MediaJaar1Week5_TommieOlislagers (1)\RekenRacer\obj\Debug\RekenRacer_MarkupCompile.lref
+C:\Users\eimmo\Desktop\MediaJaar1Week5_TommieOlislagers (1)\RekenRacer\obj\Debug\MainWindow.baml
+C:\Users\eimmo\Desktop\MediaJaar1Week5_TommieOlislagers (1)\RekenRacer\obj\Debug\RekenRacer.g.resources
+C:\Users\eimmo\Desktop\MediaJaar1Week5_TommieOlislagers (1)\RekenRacer\obj\Debug\RekenRacer.Properties.Resources.resources
+C:\Users\eimmo\Desktop\MediaJaar1Week5_TommieOlislagers (1)\RekenRacer\obj\Debug\RekenRacer.csproj.GenerateResource.cache
+C:\Users\eimmo\Desktop\MediaJaar1Week5_TommieOlislagers (1)\RekenRacer\obj\Debug\RekenRacer.csproj.CoreCompileInputs.cache
+C:\Users\eimmo\Desktop\MediaJaar1Week5_TommieOlislagers (1)\RekenRacer\obj\Debug\RekenRacer.csproj.CopyComplete
+C:\Users\eimmo\Desktop\MediaJaar1Week5_TommieOlislagers (1)\RekenRacer\obj\Debug\RekenRacer.exe
+C:\Users\eimmo\Desktop\MediaJaar1Week5_TommieOlislagers (1)\RekenRacer\obj\Debug\RekenRacer.pdb
+C:\Users\Tommie\Desktop\MediaJaar1Week6_TommieOlislagers\Game\RekenRacer\bin\Debug\RekenRacer.exe.config
+C:\Users\Tommie\Desktop\MediaJaar1Week6_TommieOlislagers\Game\RekenRacer\bin\Debug\RekenRacer.exe
+C:\Users\Tommie\Desktop\MediaJaar1Week6_TommieOlislagers\Game\RekenRacer\bin\Debug\RekenRacer.pdb
+C:\Users\Tommie\Desktop\MediaJaar1Week6_TommieOlislagers\Game\RekenRacer\bin\Debug\Google.Protobuf.dll
+C:\Users\Tommie\Desktop\MediaJaar1Week6_TommieOlislagers\Game\RekenRacer\bin\Debug\Zstandard.Net.dll
+C:\Users\Tommie\Desktop\MediaJaar1Week6_TommieOlislagers\Game\RekenRacer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Tommie\Desktop\MediaJaar1Week6_TommieOlislagers\Game\RekenRacer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Tommie\Desktop\MediaJaar1Week6_TommieOlislagers\Game\RekenRacer\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Tommie\Desktop\MediaJaar1Week6_TommieOlislagers\Game\RekenRacer\bin\Debug\Renci.SshNet.dll
+C:\Users\Tommie\Desktop\MediaJaar1Week6_TommieOlislagers\Game\RekenRacer\bin\Debug\System.Buffers.dll
+C:\Users\Tommie\Desktop\MediaJaar1Week6_TommieOlislagers\Game\RekenRacer\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Tommie\Desktop\MediaJaar1Week6_TommieOlislagers\Game\RekenRacer\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Tommie\Desktop\MediaJaar1Week6_TommieOlislagers\Game\RekenRacer\bin\Debug\System.Memory.dll
+C:\Users\Tommie\Desktop\MediaJaar1Week6_TommieOlislagers\Game\RekenRacer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tommie\Desktop\MediaJaar1Week6_TommieOlislagers\Game\RekenRacer\bin\Debug\MySql.Data.xml
+C:\Users\Tommie\Desktop\MediaJaar1Week6_TommieOlislagers\Game\RekenRacer\obj\Debug\RekenRacer.csprojAssemblyReference.cache
+C:\Users\Tommie\Desktop\MediaJaar1Week6_TommieOlislagers\Game\RekenRacer\obj\Debug\RekenRacer.exe.config
+C:\Users\Tommie\Desktop\MediaJaar1Week6_TommieOlislagers\Game\RekenRacer\obj\Debug\MainWindow.g.cs
+C:\Users\Tommie\Desktop\MediaJaar1Week6_TommieOlislagers\Game\RekenRacer\obj\Debug\App.g.cs
+C:\Users\Tommie\Desktop\MediaJaar1Week6_TommieOlislagers\Game\RekenRacer\obj\Debug\RekenRacer_MarkupCompile.cache
+C:\Users\Tommie\Desktop\MediaJaar1Week6_TommieOlislagers\Game\RekenRacer\obj\Debug\RekenRacer_MarkupCompile.lref
+C:\Users\Tommie\Desktop\MediaJaar1Week6_TommieOlislagers\Game\RekenRacer\obj\Debug\MainWindow.baml
+C:\Users\Tommie\Desktop\MediaJaar1Week6_TommieOlislagers\Game\RekenRacer\obj\Debug\RekenRacer.g.resources
+C:\Users\Tommie\Desktop\MediaJaar1Week6_TommieOlislagers\Game\RekenRacer\obj\Debug\RekenRacer.Properties.Resources.resources
+C:\Users\Tommie\Desktop\MediaJaar1Week6_TommieOlislagers\Game\RekenRacer\obj\Debug\RekenRacer.csproj.GenerateResource.cache
+C:\Users\Tommie\Desktop\MediaJaar1Week6_TommieOlislagers\Game\RekenRacer\obj\Debug\RekenRacer.csproj.CoreCompileInputs.cache
+C:\Users\Tommie\Desktop\MediaJaar1Week6_TommieOlislagers\Game\RekenRacer\obj\Debug\RekenRacer.csproj.CopyComplete
+C:\Users\Tommie\Desktop\MediaJaar1Week6_TommieOlislagers\Game\RekenRacer\obj\Debug\RekenRacer.exe
+C:\Users\Tommie\Desktop\MediaJaar1Week6_TommieOlislagers\Game\RekenRacer\obj\Debug\RekenRacer.pdb
+C:\Users\eimmo\Pictures\Game\RekenRacer\bin\Debug\RekenRacer.exe.config
+C:\Users\eimmo\Pictures\Game\RekenRacer\bin\Debug\RekenRacer.exe
+C:\Users\eimmo\Pictures\Game\RekenRacer\bin\Debug\RekenRacer.pdb
+C:\Users\eimmo\Pictures\Game\RekenRacer\bin\Debug\MySql.Data.dll
+C:\Users\eimmo\Pictures\Game\RekenRacer\bin\Debug\Google.Protobuf.dll
+C:\Users\eimmo\Pictures\Game\RekenRacer\bin\Debug\Zstandard.Net.dll
+C:\Users\eimmo\Pictures\Game\RekenRacer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\eimmo\Pictures\Game\RekenRacer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\eimmo\Pictures\Game\RekenRacer\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\eimmo\Pictures\Game\RekenRacer\bin\Debug\Renci.SshNet.dll
+C:\Users\eimmo\Pictures\Game\RekenRacer\bin\Debug\System.Buffers.dll
+C:\Users\eimmo\Pictures\Game\RekenRacer\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\eimmo\Pictures\Game\RekenRacer\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\eimmo\Pictures\Game\RekenRacer\bin\Debug\System.Memory.dll
+C:\Users\eimmo\Pictures\Game\RekenRacer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\eimmo\Pictures\Game\RekenRacer\bin\Debug\MySql.Data.xml
+C:\Users\eimmo\Pictures\Game\RekenRacer\obj\Debug\RekenRacer.csprojAssemblyReference.cache
+C:\Users\eimmo\Pictures\Game\RekenRacer\obj\Debug\RekenRacer.exe.config
+C:\Users\eimmo\Pictures\Game\RekenRacer\obj\Debug\MainWindow.g.cs
+C:\Users\eimmo\Pictures\Game\RekenRacer\obj\Debug\App.g.cs
+C:\Users\eimmo\Pictures\Game\RekenRacer\obj\Debug\RekenRacer_MarkupCompile.cache
+C:\Users\eimmo\Pictures\Game\RekenRacer\obj\Debug\RekenRacer_MarkupCompile.lref
+C:\Users\eimmo\Pictures\Game\RekenRacer\obj\Debug\MainWindow.baml
+C:\Users\eimmo\Pictures\Game\RekenRacer\obj\Debug\RekenRacer.g.resources
+C:\Users\eimmo\Pictures\Game\RekenRacer\obj\Debug\RekenRacer.Properties.Resources.resources
+C:\Users\eimmo\Pictures\Game\RekenRacer\obj\Debug\RekenRacer.csproj.GenerateResource.cache
+C:\Users\eimmo\Pictures\Game\RekenRacer\obj\Debug\RekenRacer.csproj.CoreCompileInputs.cache
+C:\Users\eimmo\Pictures\Game\RekenRacer\obj\Debug\RekenRacer.csproj.CopyComplete
+C:\Users\eimmo\Pictures\Game\RekenRacer\obj\Debug\RekenRacer.exe
+C:\Users\eimmo\Pictures\Game\RekenRacer\obj\Debug\RekenRacer.pdb
+C:\Users\eimmo\Pictures\Game\RekenRacer\obj\Debug\Highscores.g.cs
+C:\Users\eimmo\Pictures\Game\RekenRacer\obj\Debug\Login.g.cs
+C:\Users\eimmo\Pictures\Game\RekenRacer\obj\Debug\Registratie.g.cs
+C:\Users\eimmo\Pictures\Game\RekenRacer\obj\Debug\Highscores.baml
+C:\Users\eimmo\Pictures\Game\RekenRacer\obj\Debug\Login.baml
+C:\Users\eimmo\Pictures\Game\RekenRacer\obj\Debug\Registratie.baml
+C:\Users\eimmo\Pictures\Game\RekenRacer\obj\Debug\HoofdMenu.g.cs
+C:\Users\eimmo\Pictures\Game\RekenRacer\obj\Debug\HoofdMenu.baml

@@ -1,0 +1,46 @@
+﻿<Window x:Class="RekenRacer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RekenRacer"
+        mc:Ignorable="d" DataContext="{Binding RelativeSource={RelativeSource Self}}"
+        d:DataContext="{d:DesignInstance local:MainWindow}" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded"
+        Title="MainWindow"  Height="600" Width="800">
+    <Grid>
+        <Grid x:Name="raceCarGrid">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"></ColumnDefinition>
+                <ColumnDefinition Width="1*"></ColumnDefinition>
+                <ColumnDefinition Width="1*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"></RowDefinition>
+                <RowDefinition Height="1*"></RowDefinition>
+                <RowDefinition Height="1*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Rectangle Grid.ColumnSpan="3" Grid.RowSpan="3"> 
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="/img/Road_Media.jpg" />
+                </Rectangle.Fill>
+            </Rectangle>
+
+            <TextBlock x:Name="tbAntwoord1" VerticalAlignment="Center" HorizontalAlignment="Center" Padding="15" Grid.Row="1" Grid.Column="0" Text="{Binding Antwoord1}" Background="White"/>
+            <TextBlock x:Name="tbAntwoord2" VerticalAlignment="Center" HorizontalAlignment="Center" Padding="15" Grid.Row="1" Grid.Column="1" Text="{Binding Antwoord2}" Background="White"/>
+            <TextBlock x:Name="tbAntwoord3" VerticalAlignment="Center" HorizontalAlignment="Center" Padding="15" Grid.Row="1" Grid.Column="2" Text="{Binding Antwoord3}" Background="White"/>
+            <TextBlock x:Name="tbVraag" VerticalAlignment="Center" HorizontalAlignment="Center" Padding="15" Grid.Row="0" Grid.Column="1" Text="{Binding Vraag}" Background="White"/>
+            <StackPanel Grid.Row="0" Grid.ColumnSpan="3" Orientation="Vertical">
+                <Label Name="lblGebruiker" Content="{Binding Gebruiker}" Foreground="White"/>
+                <Label Name="lblLevens" Content="{Binding Levens}" Foreground="White"/>
+                <Label Name="lblScore" Content="{Binding Score}" Foreground="White"/>
+            </StackPanel>
+            <Image Name="raceCar" Grid.Column="{Binding raceCarPositionColumn}" Grid.Row="2" Source="/img/automedia.png" />
+
+            <Rectangle Visibility="Hidden" Grid.ColumnSpan="3" Grid.RowSpan="3" Name="rtUitleg">
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="/img/Uitleg.jpg" />
+                </Rectangle.Fill>
+            </Rectangle>
+        </Grid>
+    </Grid>
+</Window>
